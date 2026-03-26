@@ -15,4 +15,13 @@ jobs:
      - name: Run a simple command
        run: echo "Pipline run"
 
+     - name: Step1
+       run: echo "This is my step 1"
+
+     - name: Step2
+       run: echo "This is my step 2"
+
+    
+        
+
   
